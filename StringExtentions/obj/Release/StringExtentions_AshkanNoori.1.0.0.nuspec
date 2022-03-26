@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>StringExtentions_AshkanNoori</id>
+    <version>1.0.0</version>
+    <authors>Ashkan Noori</authors>
+    <icon>Csharp_logo.png</icon>
+    <description>This Library Includes several very useful tools for working with strings.
+This library is static and you can add it to your asp.net projects and have cleaner codes in the face of strings.</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\myNugetPackages\StringExtentions\StringExtentions\bin\Release\net5.0\StringExtentions.dll" target="lib\net5.0\StringExtentions.dll" />
+    <file src="C:\Users\Ashkan\Desktop\Csharp_logo.png" target="Csharp_logo.png" />
+  </files>
+</package>

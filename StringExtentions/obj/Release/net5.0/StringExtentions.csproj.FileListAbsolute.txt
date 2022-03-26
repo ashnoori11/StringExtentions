@@ -1,0 +1,12 @@
+F:\myNugetPackages\StringExtentions\StringExtentions\bin\Release\net5.0\StringExtentions.deps.json
+F:\myNugetPackages\StringExtentions\StringExtentions\bin\Release\net5.0\StringExtentions.dll
+F:\myNugetPackages\StringExtentions\StringExtentions\bin\Release\net5.0\ref\StringExtentions.dll
+F:\myNugetPackages\StringExtentions\StringExtentions\bin\Release\net5.0\StringExtentions.pdb
+F:\myNugetPackages\StringExtentions\StringExtentions\obj\Release\net5.0\StringExtentions.csproj.AssemblyReference.cache
+F:\myNugetPackages\StringExtentions\StringExtentions\obj\Release\net5.0\StringExtentions.GeneratedMSBuildEditorConfig.editorconfig
+F:\myNugetPackages\StringExtentions\StringExtentions\obj\Release\net5.0\StringExtentions.AssemblyInfoInputs.cache
+F:\myNugetPackages\StringExtentions\StringExtentions\obj\Release\net5.0\StringExtentions.AssemblyInfo.cs
+F:\myNugetPackages\StringExtentions\StringExtentions\obj\Release\net5.0\StringExtentions.csproj.CoreCompileInputs.cache
+F:\myNugetPackages\StringExtentions\StringExtentions\obj\Release\net5.0\StringExtentions.dll
+F:\myNugetPackages\StringExtentions\StringExtentions\obj\Release\net5.0\ref\StringExtentions.dll
+F:\myNugetPackages\StringExtentions\StringExtentions\obj\Release\net5.0\StringExtentions.pdb

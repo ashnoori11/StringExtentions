@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Ashkan Noori</Authors>
+    <Description>This Library Includes several very useful tools for working with strings.
+This library is static and you can add it to your asp.net projects and have cleaner codes in the face of strings.
+</Description>
+    <PackageIcon>Csharp_logo.png</PackageIcon>
+    <PackageIconUrl />
+    <PackageId>StringExtentions_AshkanNoori</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Ashkan\Desktop\Csharp_logo.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
